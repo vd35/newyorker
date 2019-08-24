@@ -1,0 +1,25 @@
+.header {
+    padding: 20px;
+    margin: 20px;
+    border: 20px;
+    text-align: center;
+    /* color: #DC143C;
+    background-color: #FFF0F5;
+    border-width: 3px;
+    border-style: solid;
+    border-color: #FFF0F5; */
+}
+
+.nav-bar {
+    background-color: #FFF0F5;
+    height: 20px;
+}
+
+.image {
+    color: white;
+    text-align: center;
+    width: 100%;
+    height: 1200px;
+    background-image: url(alex.jpg);
+    background-size: cover;
+}

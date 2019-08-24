@@ -1,0 +1,17 @@
+#image-container {
+    padding: 20px;
+}
+
+#root {
+    width: 800px;
+    height: 300px;
+    background-color: aliceblue;
+    display: flex;
+    flex-flow: row;
+    justify-content:space-around ;
+}
+.rect {
+    width: 150px;
+    height: 100px;
+    background-color: orange;
+}
